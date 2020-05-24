@@ -11,9 +11,6 @@
 #colour {
 color: #ADD8E6;
 }
-.bg-light {
-    background-color: dimgray;
-}
 
 #first-letter {
     color: #ADD8E6;
@@ -37,7 +34,6 @@ color: #ADD8E6;
 }
 #cat {
     opacity: 0.35;
-    background-color: white;
 }
 
 /*Jumbotron formatting*/
