@@ -1,3 +1,9 @@
+/*CSS style sheet for over writing class elements in Bootstrap code*/
+* {
+    box-sizing: border-box;
+}
+
+/*Nav bar edditing, Text align for the drop down in mobile mode and font/colour change*/
 .nav-item {
     text-align: right;
     font-family: 'Raleway', sans-serif;
@@ -14,6 +20,7 @@ color: #ADD8E6;
     font-size: large;
 }
 
+/*Background image formatting*/
 .imgbox {
     display: grid;
     height: 100%;
@@ -28,4 +35,36 @@ color: #ADD8E6;
     margin: 0 auto;
     display: block;
     padding: 0;
+}
+/*Jumbotron formatting*/
+#h1 {
+    font-size: x-large;
+    font-family: 'Raleway', sans-serif;
+    color: #ADD8E6;
+}
+#p1 {
+    font-family: 'Raleway', sans-serif;
+    color: dimgray;
+    font-size: 12px;
+}
+
+
+
+
+
+
+
+
+
+/*When in desktop mode, the below apply*/
+@media screen and (min-width: 992px) {
+    #first-letter {
+        font-size: x-large;
+    }
+    #h1 {
+        font-size: xx-large;
+    }
+    #p1 {
+        font-size: 18px;
+    }
 }
