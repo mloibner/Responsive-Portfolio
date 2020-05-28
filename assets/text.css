@@ -1,8 +1,8 @@
 /*CSS style sheet for over writing class elements in Bootstrap code*/
+
 * {
     box-sizing: border-box;
 }
-
 /*Nav bar edditing, Text align for the drop down in mobile mode and font/colour change*/
 .nav-item {
     text-align: right;
@@ -89,14 +89,13 @@ width: 65px;
 }
 
 /*Portfolio page*/
-.container {
-    margin: 10% auto;
+.containerportfolio {
+    margin: 10%;
 }
 
 .card {
     width: 100%;
 }
-
 
 
 /*When in desktop mode, the below apply*/
