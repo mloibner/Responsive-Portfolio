@@ -89,14 +89,39 @@ width: 65px;
 }
 
 /*Portfolio page*/
+
 .containerportfolio {
     margin: 10%;
 }
 
 .card {
     width: 100%;
+    height: 100%;
 }
 
+.btn{
+    background-color: #ADD8E6;
+}
+.btn-primary {
+    border-color: #ADD8E6;
+}
+.card-body {
+    background-color: #343a40;
+    color: aliceblue;
+    font-family: 'Raleway', sans-serif;
+    z-index: 2;
+
+}
+
+/*Contact me page*/
+
+.my-4 {
+    font-family: 'Raleway', sans-serif;
+}
+.mb-4 {
+    margin-left: 5%;
+    margin-right: 5%;
+}
 
 /*When in desktop mode, the below apply*/
 @media screen and (min-width: 992px) {
@@ -112,5 +137,11 @@ width: 65px;
 
     .mr-3 {
         width: 150px;
+    }
+    .card-body {
+        font-size: large;
+    }
+    .card-title {
+        font-size: x-large;
     }
 }
