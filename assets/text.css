@@ -58,7 +58,7 @@ color: #ADD8E6;
 .my-container:before {
     content: ' ';
     display: block;
-    position: absolute;
+    position: relative;
     left: 0;
     top: 0;
     width: 100%;
@@ -72,9 +72,16 @@ color: #ADD8E6;
     -moz-background-size: cover;
     -webkit-background-size: cover;
     background-size: cover;
+    z-index: 1;
 }
 
-
+.media {
+    z-index: 2;
+    position: absolute;
+    top: 150px;
+    margin-left: 7%;
+    margin-right: 7%;
+}
 
 
 
