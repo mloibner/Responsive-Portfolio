@@ -83,6 +83,9 @@ color: #ADD8E6;
     margin-right: 7%;
 }
 
+.mr-3 {
+width: 65px;
+}
 
 
 
@@ -97,5 +100,9 @@ color: #ADD8E6;
     }
     #p1 {
         font-size: 18px;
+    }
+
+    .mr-3 {
+        width: 150px;
     }
 }
