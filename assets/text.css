@@ -75,6 +75,7 @@ color: #ADD8E6;
     z-index: 1;
 }
 
+/*updated css for the About Me page text and self image*/
 .media {
     z-index: 2;
     position: absolute;
@@ -87,6 +88,14 @@ color: #ADD8E6;
 width: 65px;
 }
 
+/*Portfolio page*/
+.container {
+    margin: 10% auto;
+}
+
+.card {
+    width: 100%;
+}
 
 
 
