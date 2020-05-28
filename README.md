@@ -1,4 +1,4 @@
-# Responsive-Portfolio.io
+# Responsive-Portfolio
 Home Work - Week 2
 
 
