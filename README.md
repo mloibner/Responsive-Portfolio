@@ -12,6 +12,9 @@ I have not included my Resume in here because I love my job, dont want to be app
 ## Deployed URL
 https://mloibner.github.io/Responsive-Portfolio/homepage.html
 
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate.
+
 
 ### License
 
