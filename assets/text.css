@@ -79,9 +79,10 @@ color: #ADD8E6;
 .media {
     z-index: 2;
     position: absolute;
-    top: 150px;
+    top: 75px;
     margin-left: 7%;
     margin-right: 7%;
+    font-size: 8px;
 }
 
 .mr-3 {
@@ -143,5 +144,9 @@ width: 65px;
     }
     .card-title {
         font-size: x-large;
+    }
+    .media{
+        font-size: 18px;
+        top: 150px;
     }
 }
