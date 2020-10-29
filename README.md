@@ -1,20 +1,30 @@
 # Responsive-Portfolio
-
+  ![NPM version](https://img.shields.io/badge/npm-6.14.4-green)
+  ![GitHub license](https://img.shields.io/badge/License-MITLicense-blue.svg)
 
 ## Description
-Please find my Responsive Portfolio. In here you will see info about me, my goals, my work examples as well as my contact details! 
-I have not included my Resume in here because I love my job, dont want to be approached by recruiters and do not wish to have that information publically displayed. 
+    
+  Please find my Responsive Portfolio. In here you will see info about me, my goals, my work examples as well as my contact details! 
+  I have not included my Resume in here because I love my job, dont want to be approached by recruiters and do not wish to have that information publically     displayed. 
 
 
+## Table of Contents
+  - [DeployedUrl](#DeployedURL)
+  - [Contributors](#Contributors)
+  - [Licence](#Licence)
+  - [GitHub](#GitHub)
+
+### Contributors
+   
+  Contribution is welcome
+  
+  
 ## Snippets
 
+<img src="/assets/images/readme/home.png">
 
-## Deployed URL
+## DeployedURL
 https://mloibner.github.io/Responsive-Portfolio/homepage.html
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate.
-
 
 ### License
 
@@ -26,3 +36,10 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+### GitHub
+    
+  - [GitHub](m.loibner@hotmail.com)
+
+ 
