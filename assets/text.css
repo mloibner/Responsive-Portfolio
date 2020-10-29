@@ -75,6 +75,13 @@ color: #ADD8E6;
     z-index: 1;
 }
 
+.image-portfolio{
+    max-width: 250px;
+    max-height: 250px;
+    justify-content: center;
+    margin: 0 auto;
+}
+
 /*updated css for the About Me page text and self image*/
 .media {
     z-index: 2;
